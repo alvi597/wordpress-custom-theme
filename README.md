@@ -33,7 +33,7 @@ convert into wordpress custom theme
 ChatGPT said:
 To convert your uploaded landing.zip (which likely contains an HTML/CSS/JS static landing page) into a custom WordPress theme, I’ll guide you through the process step-by-step and also outline the files you’ll need.
 
-✅ Step-by-Step Plan to Convert a Static HTML Template into a WordPress Theme
+✅ Step-by-Step Plan to Convert a Static HTML Template into a WordPress Theme with beautiful design
 📁 Folder Structure for WordPress Theme
 Create a new folder in wp-content/themes/your-theme-name/ and set up the following basic files:
 
